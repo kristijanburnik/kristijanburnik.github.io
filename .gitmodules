@@ -1,0 +1,4 @@
+[submodule "web-platform-tests"]
+	path = web-platform-tests
+	url = https://github.com/kristijanburnik/web-platform-tests
+	branch = mixed-content
