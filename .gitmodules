@@ -2,3 +2,6 @@
 	path = web-platform-tests
 	url = https://github.com/kristijanburnik/web-platform-tests
 	branch = mixed-content
+[submodule "kristijanburnik.github.io"]
+	path = kristijanburnik.github.io
+	url = git@github.com:kristijanburnik/kristijanburnik.github.io.git
