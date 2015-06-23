@@ -4,4 +4,4 @@
 	branch = mixed-content
 [submodule "web-insects"]
 	path = web-insects
-	url = git@github.com:kristijanburnik/web-insects.git
+	url = https://github.com/kristijanburnik/web-insects.git
