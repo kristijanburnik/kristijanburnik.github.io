@@ -2,3 +2,6 @@
 	path = web-platform-tests
 	url = https://github.com/kristijanburnik/web-platform-tests
 	branch = mixed-content
+[submodule "web-insects"]
+	path = web-insects
+	url = git@github.com:kristijanburnik/web-insects.git
